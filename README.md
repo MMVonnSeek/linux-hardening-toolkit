@@ -2,7 +2,6 @@
 [![Repositório Original](https://img.shields.io/badge/Repositório-Original-black?style=for-the-badge&logo=github)](https://github.com/MMVonnSeek/linux-hardening-toolkit)
 [![Linux](https://img.shields.io/badge/Ubuntu-Debian-darkred?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/MMVonnSeek/linux-hardening-toolkit)
 [![Licença](https://img.shields.io/badge/Licença-MIT-black?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/MMVonnSeek/linux-hardening-toolkit?style=for-the-badge&color=darkred)](https://github.com/MMVonnSeek/linux-hardening-toolkit/stargazers)
 [![Sponsor](https://img.shields.io/badge/❤️_Apoie_este_projeto-Sponsor-darkred?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
 
 ---
@@ -253,8 +252,6 @@ Novos controles são bem-vindos. Cada controle precisa de:
 
 <div align="center">
 
-[![Professor Max](https://img.shields.io/badge/Material_do_Professor_Max-Oficial-darkred?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/MMVonnSeek/linux-hardening-toolkit)
-[![Sponsor](https://img.shields.io/badge/❤️_Apoie_este_projeto-Sponsor-darkred?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Muller-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-muller-685705248/)
 
 *Feito com ☕ e muito terminal por Professor Max — SENAI Brasília*
